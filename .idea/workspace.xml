@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ffb267-1751-4704-9db4-809bc419f74d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0204FahrenToCelc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0206FahrenToCelc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0208Array.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0209MultidimensionalArray.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02e01CentigradeToFahrenheit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02e02TroubleshootCode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02e02TroubleshootCode.html" afterPath="$PROJECT_DIR$/02e02TroubleshootCode.html" />
     </list>
     <ignored path="JavaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,7 +90,7 @@
       <file leaf-file-name="02e02TroubleshootCode.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02e02TroubleshootCode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="544" selection-end="544" vertical-scroll-proportion="0.26984128">
+            <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="0.24908425">
               <folding />
             </state>
           </provider>
@@ -507,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02e02TroubleshootCode.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="544" selection-end="544" vertical-scroll-proportion="0.26984128">
+        <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="0.24908425">
           <folding />
         </state>
       </provider>
