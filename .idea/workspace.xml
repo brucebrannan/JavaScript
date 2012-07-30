@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ffb267-1751-4704-9db4-809bc419f74d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02e02TroubleshootCode.html" afterPath="$PROJECT_DIR$/02e02TroubleshootCode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0301IfStatement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0302MultipleConditions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,28 +89,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02e02TroubleshootCode.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="02e02TroubleshootCode.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02e02TroubleshootCode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="0.24908425">
+            <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0201VariableAssignment.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0201VariableAssignment.html">
+      <file leaf-file-name="0301IfStatement.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0301IfStatement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="7" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+            <state line="13" column="65" selection-start="538" selection-end="538" vertical-scroll-proportion="-8.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0202MoreVariableAssignment.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0202MoreVariableAssignment.html">
+      <file leaf-file-name="0302MultipleConditions.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0302MultipleConditions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0">
+            <state line="17" column="4" selection-start="508" selection-end="508" vertical-scroll-proportion="0.35286936">
               <folding />
             </state>
           </provider>
@@ -127,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ch1__examp1.htm.html" />
-        <option value="$PROJECT_DIR$/ch1__examp1.htm" />
         <option value="$PROJECT_DIR$/ch1__examp2.htm" />
         <option value="$PROJECT_DIR$/ch1_examp3.html" />
         <option value="$PROJECT_DIR$/ch1_examp4.html" />
@@ -143,6 +143,8 @@
         <option value="$PROJECT_DIR$/0209MultidimensionalArray.html" />
         <option value="$PROJECT_DIR$/02e01CentigradeToFahrenheit.html" />
         <option value="$PROJECT_DIR$/02e02TroubleshootCode.html" />
+        <option value="$PROJECT_DIR$/0301IfStatement.html" />
+        <option value="$PROJECT_DIR$/0302MultipleConditions.html" />
       </list>
     </option>
   </component>
@@ -500,7 +502,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02e02TroubleshootCode.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="0.24908425">
+        <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0301IfStatement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="65" selection-start="538" selection-end="538" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0302MultipleConditions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="508" selection-end="508" vertical-scroll-proportion="0.35286936">
           <folding />
         </state>
       </provider>
