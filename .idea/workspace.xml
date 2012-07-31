@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ffb267-1751-4704-9db4-809bc419f74d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0301IfStatement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0302MultipleConditions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0303SwitchStatement.html" />
+      <change type="DELETED" beforePath="C:\Users\bruce.EPDNET\RubymineProjects\JavaScript\0302MultipleConditions.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScript.iws" />
@@ -101,16 +101,16 @@
       <file leaf-file-name="0301IfStatement.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0301IfStatement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="65" selection-start="538" selection-end="538" vertical-scroll-proportion="-8.5">
+            <state line="22" column="7" selection-start="672" selection-end="672" vertical-scroll-proportion="-14.384615">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0302MultipleConditions.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0302MultipleConditions.html">
+      <file leaf-file-name="0303SwitchStatement.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0303SwitchStatement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="4" selection-start="508" selection-end="508" vertical-scroll-proportion="0.35286936">
+            <state line="23" column="18" selection-start="694" selection-end="694" vertical-scroll-proportion="0.47741148">
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ch1__examp2.htm" />
         <option value="$PROJECT_DIR$/ch1_examp3.html" />
         <option value="$PROJECT_DIR$/ch1_examp4.html" />
         <option value="$PROJECT_DIR$/ch2_examp2.html" />
@@ -145,6 +144,7 @@
         <option value="$PROJECT_DIR$/02e02TroubleshootCode.html" />
         <option value="$PROJECT_DIR$/0301IfStatement.html" />
         <option value="$PROJECT_DIR$/0302MultipleConditions.html" />
+        <option value="$PROJECT_DIR$/0303SwitchStatement.html" />
       </list>
     </option>
   </component>
@@ -509,14 +509,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0301IfStatement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="65" selection-start="538" selection-end="538" vertical-scroll-proportion="-8.5">
+        <state line="22" column="7" selection-start="672" selection-end="672" vertical-scroll-proportion="-14.384615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0302MultipleConditions.html">
+    <entry file="file://$PROJECT_DIR$/0303SwitchStatement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="4" selection-start="508" selection-end="508" vertical-scroll-proportion="0.35286936">
+        <state line="23" column="18" selection-start="694" selection-end="694" vertical-scroll-proportion="0.47741148">
           <folding />
         </state>
       </provider>
