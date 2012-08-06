@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ffb267-1751-4704-9db4-809bc419f74d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0305 FahrenToCentFunctionWitInput.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03e01FindErrors.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03e02Multiply12Table.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03e03MultiplyTableWithPrompts.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScript.iws" />
@@ -25,42 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="0209MultidimensionalArray.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0209MultidimensionalArray.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="60" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02e01CentigradeToFahrenheit.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02e01CentigradeToFahrenheit.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="7" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02e02TroubleshootCode.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02e02TroubleshootCode.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0301IfStatement.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0301IfStatement.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="0303SwitchStatement.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0303SwitchStatement.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,10 +73,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0305 FahrenToCentFunctionWitInput.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="0305 FahrenToCentFunctionWitInput.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0305 FahrenToCentFunctionWitInput.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="39" selection-start="290" selection-end="290" vertical-scroll-proportion="0.16605617">
+            <state line="11" column="12" selection-start="334" selection-end="334" vertical-scroll-proportion="-7.1923075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="7" selection-start="275" selection-end="275" vertical-scroll-proportion="-5.8846154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03e01FindErrors.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03e01FindErrors.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="7" selection-start="547" selection-end="547" vertical-scroll-proportion="-15.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03e02Multiply12Table.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03e02Multiply12Table.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="7" selection-start="451" selection-end="451" vertical-scroll-proportion="0.31135532">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03e03MultiplyTableWithPrompts.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03e03MultiplyTableWithPrompts.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -128,9 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/0205StringConcatenation.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/0204FahrenToCelc.html" />
         <option value="$PROJECT_DIR$/0206FahrenToCelc.html" />
         <option value="$PROJECT_DIR$/0208Array.html" />
         <option value="$PROJECT_DIR$/0209MultidimensionalArray.html" />
@@ -144,6 +144,9 @@
         <option value="$PROJECT_DIR$/0304ForLoopRefactoredForInput.html" />
         <option value="$PROJECT_DIR$/Recursion.html" />
         <option value="$PROJECT_DIR$/0305 Fahren to Cent Function.html" />
+        <option value="$PROJECT_DIR$/template.htm" />
+        <option value="$PROJECT_DIR$/03e01FindErrors.htm" />
+        <option value="$PROJECT_DIR$/03e02.htm" />
       </list>
     </option>
   </component>
@@ -344,7 +347,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21078432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21078432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -414,26 +417,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0201VariableAssignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="7" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0202MoreVariableAssignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0205StringConcatenation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="511" selection-end="511" vertical-scroll-proportion="-12.423077" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0206FahrenToCelc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="7" selection-start="451" selection-end="451" vertical-scroll-proportion="-9.807693" />
@@ -491,9 +474,37 @@
         <state line="12" column="19" selection-start="369" selection-end="369" vertical-scroll-proportion="-7.8461537" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="275" selection-end="275" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0305 FahrenToCentFunctionWitInput.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="39" selection-start="290" selection-end="290" vertical-scroll-proportion="0.16605617">
+        <state line="11" column="12" selection-start="334" selection-end="334" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03e01FindErrors.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="7" selection-start="547" selection-end="547" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03e03MultiplyTableWithPrompts.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03e02Multiply12Table.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="451" selection-end="451" vertical-scroll-proportion="0.31135532">
           <folding />
         </state>
       </provider>

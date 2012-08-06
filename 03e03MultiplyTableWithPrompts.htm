@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+</head>
+<body>
+<script language="JavaScript" type="text/javascript">
+    var startingMultiplier;
+    var endingMultiplier;
+    var numberToMultiply;
+    numberToMultiply = prompt("Enter a number to multiply: ");
+    startingMultiplier = prompt("Enter the first number to multiply by: ");
+    endingMultiplier = prompt("Enter the last number to multiply by: ");
+    var loopCounter;
+    for (loopCounter = startingMultiplier; loopCounter <= endingMultiplier; loopCounter++)
+    {
+        document.write(numberToMultiply + " * " + loopCounter + " = " + numberToMultiply*loopCounter+ "<br />");
+
+    }
+</script>
+</body>
+</html>
